@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "csv-writer": "^1.6.0"
+  }
+}
